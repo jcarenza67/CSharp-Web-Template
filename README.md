@@ -2,7 +2,7 @@
 
 #### (QUICK DESCRIPTION OF PROJECT), (DATE OF CURRENT VERSION)
 
-#### By (Joseph Wilfong)
+#### By (NAME GOES HERE)
 
 ## Technologies Used
 
@@ -43,7 +43,7 @@ _DESCRIPTION GOES HERE_
 * _Run the tests by moving into the [PROJECT NAME GOES HERE].Tests folder and typing ***dotnet test*** in the terminal to run tests_
 
 
-***_Please contact me at josephwilfong91@gmail.com if you have any questions, ideas, or concerns._***
+***_Please contact me at EMAILGOESHERE@WEBSITE.com if you have any questions, ideas, or concerns._***
 
 
 ## Known Bugs
@@ -59,4 +59,4 @@ _The above copyright notice and this permission notice shall be included in all 
 
 _THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
 
-_Copyright (c) _2023_ _Joseph Wilfong_
+_Copyright (c) _2023_ _NAME GOES HERE_
