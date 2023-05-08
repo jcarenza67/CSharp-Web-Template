@@ -40,6 +40,8 @@ _DESCRIPTION GOES HERE_
 * _Navigate to the [PROJECT NAME GOES HERE] folder in your terminal_
 * _Then type ***dotnet build*** in your terminal to make sure everything is up to date and there are no errors_
 * _Then launch the webpage by typing ***dotnet watch run --launch-profile "production"*** in the teminal_
+* _If you need to install MSTest, type ***dotnet tool install -g dotnet-suggest*** in the terminal_
+* _If you would like to run the tests, type ***dotnet restore*** in the terminal to restore the dependencies that are listed in the .csproj file_
 * _Run the tests by moving into the [PROJECT NAME GOES HERE].Tests folder and typing ***dotnet test*** in the terminal to run tests_
 
 
