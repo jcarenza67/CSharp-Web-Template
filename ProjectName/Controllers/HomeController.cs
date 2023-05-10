@@ -6,7 +6,7 @@ namespace ClassName.Controllers
   public class HomeController : Controller
   {
     [HttpGet("/")]
-    public ActionResult MethodName()
+    public ActionResult Index()
     {
       return View();
     }
