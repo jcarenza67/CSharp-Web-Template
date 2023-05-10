@@ -5,7 +5,7 @@ namespace ClassName.Controllers
 {
   public class HomeController : Controller
   {
-    [HttpGet("/route")]
+    [HttpGet("/")]
     public ActionResult MethodName()
     {
       return View();
