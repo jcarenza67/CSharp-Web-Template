@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ClassName.Controllers
 {
-  public class ClassNameController : Controller
+  public class HomeController : Controller
   {
     [HttpGet("/route")]
     public ActionResult MethodName()
