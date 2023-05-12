@@ -11,8 +11,7 @@ namespace ProjectName.Tests
       [TestMethod]
       public void MethodName_DescriptionOfBehavior_ExpectedReturnValue()
       {
-      // any necessary logic to prep for test; instantiating new classes, etc.
-      Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);
+      
       }
     }
 }
