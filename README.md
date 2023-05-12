@@ -40,7 +40,7 @@ _DESCRIPTION GOES HERE_
 ```
 * _Navigate to the [PROJECT NAME GOES HERE] folder in your terminal_
 * _Then type ***dotnet build*** in your terminal to make sure everything is up to date and there are no errors_
-* _Then launch the webpage by typing ***dotnet watch run --launch-profile "production"*** in the teminal_
+* _Then launch the webpage by typing ***dotnet watch run*** in the teminal_
 * _For issuing and trusting a security certificate, type ***dotnet dev-certs https --trust*** in the terminal and restart your browser_
 * _If you need to install MSTest, type ***dotnet tool install -g dotnet-suggest*** in the terminal_
 * _If you would like to run the tests, type ***dotnet restore*** in the terminal to restore the dependencies that are listed in the .csproj file_
